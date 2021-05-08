@@ -1,4 +1,4 @@
-# Differential-equations-
+# Self sustained oscillations - differntail equations
 question- example-5 in sec 4.5 and theorem 1 in ADVANCED ENGINEERING MATHEMATICS BY ERWIN ERESZIG1 book
 
 
